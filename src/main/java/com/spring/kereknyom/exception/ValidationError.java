@@ -46,5 +46,6 @@ public class ValidationError {
         public void setMessage(String message) {
             this.message = message;
         }
+
     }
 }
